@@ -1,0 +1,13 @@
+model,top1,top1_err,top5,top5_err,param_count,img_size,cropt_pct,interpolation,checkpoint
+sequencer2d_m,93.0,7.0,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-196.pth.tar
+sequencer2d_m,93.0,7.0,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/model_best.pth.tar
+sequencer2d_m,92.6667,7.3333,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-118.pth.tar
+sequencer2d_m,92.6667,7.3333,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-162.pth.tar
+sequencer2d_m,92.6667,7.3333,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-194.pth.tar
+sequencer2d_m,92.6667,7.3333,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-205.pth.tar
+sequencer2d_m,92.3333,7.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-115.pth.tar
+sequencer2d_m,92.3333,7.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-144.pth.tar
+sequencer2d_m,92.3333,7.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-179.pth.tar
+sequencer2d_m,92.3333,7.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-198.pth.tar
+sequencer2d_m,92.3333,7.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/checkpoint-200.pth.tar
+sequencer2d_m,90.3333,9.6667,100.0,0.0,37.92,224,0.875,bicubic,/media/zasim/69366298-8e7c-477a-a176-aba06b9848d9/nadim/sequencer-main/checkpoint/20230418-025020-sequencer2d_m-224/last.pth.tar
