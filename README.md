@@ -31,7 +31,7 @@ Sequencer2D block replaces the Transformer's self-attention layer with an LSTM-b
 BiLSTM2D includes a vertical LSTM and a horizontal LSTM:
 
 ![BiLSTM2D]
-[final]: img/model_final.jpg
+[final]: img/model_final.png
 [Sequencer]: img/Sequencer.jpg
 [Sequencer2D]: img/Sequencer2D.jpg
 [BiLSTM2D]: img/BiLSTM2D.jpg
