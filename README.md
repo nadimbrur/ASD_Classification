@@ -20,6 +20,9 @@ In recent computer vision research, the advent of the Vision Transformer (ViT) h
 
 ## Schematic diagrams
 
+The total block is:
+![Final]
+
 The overall architecture of Sequencer2D is similar to the typical hierarchical ViT and Visual MLP. It uses Sequencer2D blocks instead of Transformer blocks:
  
 ![Sequencer]
@@ -31,7 +34,7 @@ Sequencer2D block replaces the Transformer's self-attention layer with an LSTM-b
 BiLSTM2D includes a vertical LSTM and a horizontal LSTM:
 
 ![BiLSTM2D]
-
+[Final]: img/model_final.png
 [Sequencer]: img/Sequencer.jpg
 [Sequencer2D]: img/Sequencer2D.jpg
 [BiLSTM2D]: img/BiLSTM2D.jpg
