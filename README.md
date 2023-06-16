@@ -21,7 +21,7 @@ In recent computer vision research, the advent of the Vision Transformer (ViT) h
 ## Schematic diagrams
 
 The total block is:
-![Final]: img/Modell.jpg
+![Modell](https://github.com/nadimbrur/ASD_Classification/assets/88606925/487bd884-ad49-40b7-bbe3-2f69dcb56f07)
 
 The overall architecture of Sequencer2D is similar to the typical hierarchical ViT and Visual MLP. It uses Sequencer2D blocks instead of Transformer blocks:
  
