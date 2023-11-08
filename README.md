@@ -1,16 +1,9 @@
-**[NeurIPS 2022] Sequencer**: Deep LSTM for Image Classification
+**[NeurIPS 2022] Autism Spec‑
+trum Disorder Detection using Facial Images and Deep Learning***
 ========
+ 
 
-[![NeurIPS 2022](https://img.shields.io/badge/NeuIPS-2022-373737.svg?style=plastic&labelColor=5779eb)](https://nips.cc/Conferences/2022/Schedule?showEvent=55158)
-[![arXiv](https://img.shields.io/badge/arXiv-2205.01972-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2205.01972)
-[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=plastic&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)
-
-Created by
-* [Yuki Tatsunami](https://okojoalg.github.io/) 
-  * [![Rikkyo University](https://img.shields.io/badge/Rikkyo-University-FFFFFF?style=plastic&labelColor=582780)](https://www.rikkyo.ac.jp)
-  * [![AnyTech](https://img.shields.io/badge/AnyTech-Co.%20Ltd.-18C4AA?style=plastic&labelColor=254BB1)](https://anytech.co.jp/)
-* [Masato Taki](https://scholar.google.com/citations?hl=en&user=3nMhvfgAAAAJ)
-  * [![Rikkyo University](https://img.shields.io/badge/Rikkyo-University-FFFFFF?style=plastic&labelColor=582780)](https://www.rikkyo.ac.jp)
+ 
 
 This repository contains implementation for Sequencer.
 
